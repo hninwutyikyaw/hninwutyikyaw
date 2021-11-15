@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **hninwutyikyaw.26@gmail.com**
 
--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hninwutyikyaw&show_icons=true&theme=radical)
+-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hninwutyikyaw&show_icons=true&theme=tokyonight)
 
 <!-- 
 <h3 align="left">Connect with me:</h3> 
