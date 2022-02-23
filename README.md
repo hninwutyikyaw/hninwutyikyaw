@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hninwutyikyaw" alt="hninwutyikyaw" /></a> </p>
 
-- 🌱 I’m currently learning **PHP, Laravel, Vue js and React**
+- 🌱 I’m currently learning **PHP, Laravel, and Vue js**
 
 - 📫 How to reach me **hninwutyikyaw.26@gmail.com**
 
