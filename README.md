@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hnin Wut Yi Kyaw</h1>
-<h3 align="center">I want to be a Web Developer.</h3>
+<h3 align="center">I am a Frontend developer.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hninwutyikyaw" alt="hninwutyikyaw" /></a> </p>
 
